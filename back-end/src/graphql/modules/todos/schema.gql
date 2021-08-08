@@ -1,0 +1,22 @@
+type ToDo {
+  id: Int
+  title: String
+  description: String
+  check: Boolean
+}
+
+type Query {
+  allToDos: [ToDo]
+}
+
+input ToDoInput {
+  title: String
+  description: String
+  check: Boolean
+}
+
+type Mutation {
+  makeToDo(data: ToDoInput): ToDo
+  updateToDo(id: Int!, data: ToDoInput): ToDo
+  deleteToDo(id: Int!): Boolean
+}
