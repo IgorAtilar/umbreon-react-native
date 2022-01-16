@@ -67,4 +67,4 @@ $ npm
 
 # :clipboard:Créditos
 
-<b>[Igor Atilar](https://www.linkedin.com/in/igor-atilar-b61a14201/)</b>
+<b>[Igor Atilar](https://www.linkedin.com/in/igor-atilar/)</b>
