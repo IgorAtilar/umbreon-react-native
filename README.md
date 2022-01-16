@@ -62,7 +62,7 @@ $ yarn
 ```
 $ npm
 ```
-# :hammer: Em construção...
+# :hammer: Readme em construção...
 
 
 # :clipboard:Créditos
